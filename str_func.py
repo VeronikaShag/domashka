@@ -8,4 +8,4 @@ def big_first(value):
     """
     Ставит заглавной первую букву
     """
-    return alue.title()
+    return value.title()
